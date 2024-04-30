@@ -17,7 +17,7 @@ The Snake game consists of a snake that moves around the screen, eating food to 
 ## Screenshots
 ```
 ![Screenshot 2024-04-30 191914](https://github.com/bilalr-dev/2dsnake/assets/142100151/3ff3dd68-4988-400f-8c30-320918f261f1)
-```
+
 ## Installation
 
 1. Clone the repository:
@@ -51,4 +51,3 @@ python main.py
 ## License
 
 Feel free to use the source code in your project.
-```
