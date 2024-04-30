@@ -1,6 +1,5 @@
-```markdown
-# Snake Game
 
+# Snake Game
 This is a simple Snake game implemented in Python using the Pygame library.
 
 ## Description
@@ -13,6 +12,7 @@ The Snake game consists of a snake that moves around the screen, eating food to 
 - Randomized placement of food and obstacles.
 - Pause screen with message until player starts the game.
 - Game over screen when snake collides with itself or with obstacles.
+```markdown
 
 ## Screenshots
 ```
