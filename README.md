@@ -1,5 +1,3 @@
-Sure! Below is a basic template for your README.md file:
-
 ```markdown
 # Snake Game
 
@@ -18,14 +16,14 @@ The Snake game consists of a snake that moves around the screen, eating food to 
 
 ## Screenshots
 
-![Gameplay](screenshots/gameplay.png)
+![Screenshot 2024-04-30 191914](https://github.com/abellajdel/ctos/assets/142100151/f9bb755b-5522-4598-8714-8e95f47dcdce)
 
 ## Installation
 
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/snake-game.git
+git clone git@github.com:bilalr-dev/2dsnake.git
 ```
 
 2. Install Pygame:
@@ -48,11 +46,9 @@ python main.py
 
 ## Credits
 
-- This game was created by [Your Name].
+- This game was created by Bilal Rahaoui.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Feel free to use the source code in your project.
 ```
-
-Replace `[Your Name]` with your name or your team's name. You can also add or modify sections as needed. Additionally, you can include screenshots or any other relevant information to make your README.md more informative and visually appealing.
